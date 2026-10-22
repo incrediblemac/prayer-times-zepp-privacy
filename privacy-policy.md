@@ -1,10 +1,10 @@
-# Privacy Policy — Prayer Times (Zepp OS)
+# Privacy Policy — Islamic Prayer Times (Zepp OS)
 
 **Last updated: October 22, 2026**
 
 ## Summary
 
-Prayer Times is a Mini Program for Zepp OS smartwatches. It calculates the five daily prayer times and sunrise on the watch itself, from your position or a city you choose, and can alert you before each prayer. All calculation happens on the watch. The app has no internet access, no companion phone component, no analytics and no tracking. The developer does not collect, receive, store, or sell any of your data.
+Islamic Prayer Times is a Mini Program for Zepp OS smartwatches. It calculates the five daily prayer times and sunrise on the watch itself, from your position or a city you choose, and can alert you before each prayer. All calculation happens on the watch. The app has no internet access, no companion phone component, no analytics and no tracking. The developer does not collect, receive, store, or sell any of your data.
 
 ## What the app reads
 
@@ -66,8 +66,8 @@ Questions or concerns: open an issue in this repository, or email **fullscreende
 
 ## About the developer
 
-Prayer Times is built by the team behind [TechStoriesIndia.com](https://techstoriesindia.com/), covering tech news, launches and how-tos, and [TechStoriesIndia.in](https://techstoriesindia.in/), covering gadget launches, specs and buying guides.
+Islamic Prayer Times is built by the team behind [TechStoriesIndia.com](https://techstoriesindia.com/), covering tech news, launches and how-tos, and [TechStoriesIndia.in](https://techstoriesindia.in/), covering gadget launches, specs and buying guides.
 
 ---
 
-*Prayer Times is an independent app. It is not affiliated with, endorsed by, or sponsored by Zepp Health or Amazfit. "Zepp" and "Amazfit" are trademarks of Zepp Health Corporation, used here only to describe the watches the app runs on.*
+*Islamic Prayer Times is an independent app. It is not affiliated with, endorsed by, or sponsored by Zepp Health or Amazfit. "Zepp" and "Amazfit" are trademarks of Zepp Health Corporation, used here only to describe the watches the app runs on.*
